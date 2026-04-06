@@ -1,0 +1,222 @@
+[
+{
+"question": "Who is Dante’s beloved?",
+"options": [
+"Helen",
+"Beatrice",
+"Lydia",
+"Elizabeth"
+],
+"correct_option_index": 1,
+"explanation": "Beatrice is Dante’s idealized beloved who symbolizes divine love."
+},
+{
+"question": "Who protects Dante from the true dangers of hell?",
+"options": [
+"Virgil",
+"Beatrice",
+"Elizabeth",
+"Milton"
+],
+"correct_option_index": 0,
+"explanation": "Virgil guides and protects Dante through Hell in The Divine Comedy."
+},
+{
+"question": "In Dante’s Inferno the she-wolf allegorically represents the cardinal sin",
+"options": [
+"Lust",
+"Pride",
+"Avarice",
+"Wrath"
+],
+"correct_option_index": 2,
+"explanation": "The she-wolf symbolizes greed or avarice in Dante’s allegory."
+},
+{
+"question": "'Not a man, though I was once.' Who remarked like this in Inferno?",
+"options": [
+"Virgil",
+"Beatrice",
+"Dante",
+"Anchises"
+],
+"correct_option_index": 0,
+"explanation": "Virgil identifies himself as a spirit rather than a living man."
+},
+{
+"question": "In Dante’s Inferno the leopard allegorically stands for the cardinal sin",
+"options": [
+"Lust",
+"Pride",
+"Avarice",
+"Wrath"
+],
+"correct_option_index": 0,
+"explanation": "The leopard represents lust in Dante’s symbolic framework."
+},
+{
+"question": "The lion in Dante’s Inferno allegorically represents the cardinal sin",
+"options": [
+"Lust",
+"Pride",
+"Avarice",
+"Wrath"
+],
+"correct_option_index": 1,
+"explanation": "The lion symbolizes pride in Dante’s allegory."
+},
+{
+"question": "The appearance of a hound in Dante’s Inferno stands for",
+"options": [
+"Lust and sloth",
+"Pride and envy",
+"Avarice and gluttony",
+"Wisdom and Courage"
+],
+"correct_option_index": 3,
+"explanation": "The hound symbolizes moral strength and justice."
+},
+{
+"question": "Taken together, Dante’s three works Inferno, Purgatorio, Paradiso are called",
+"options": [
+"Commedia",
+"The True Way",
+"The Divine Comedy",
+"La Vita Nuova"
+],
+"correct_option_index": 2,
+"explanation": "These three sections together form The Divine Comedy."
+},
+{
+"question": "Virgil is an allegorical representation of",
+"options": [
+"Human reason",
+"Despair",
+"Sin",
+"Death"
+],
+"correct_option_index": 0,
+"explanation": "Virgil represents human reason guiding the soul."
+},
+{
+"question": "Which poet occupied a distinguished place at King Vikramaditya’s court?",
+"options": [
+"Bhasa",
+"Kabir Das",
+"Kalidasa",
+"Tagore"
+],
+"correct_option_index": 2,
+"explanation": "Kalidasa was a celebrated poet in King Vikramaditya’s court."
+},
+{
+"question": "Name the two epic poems by Kalidasa.",
+"options": [
+"Raghuvamsa and Ritusamhara",
+"Raghuvamsa and Kumara-sambhava",
+"Kumara-sambhava and Meghaduta",
+"Meghaduta and Ritusamhara"
+],
+"correct_option_index": 1,
+"explanation": "These are Kalidasa’s two major Sanskrit epics."
+},
+{
+"question": "Abhijanasakuntalam tells the story of",
+"options": [
+"King Vikramaditya",
+"King Dushyanta",
+"King Bharata",
+"King Duryodana"
+],
+"correct_option_index": 1,
+"explanation": "The drama narrates the love story of King Dushyanta and Shakuntala."
+},
+{
+"question": "Which is not a theme of the poem 'Lovely is Youth'?",
+"options": [
+"Transience of youth",
+"Marriage of Dushyanta",
+"Swiftness of time",
+"Beauty of life and nature"
+],
+"correct_option_index": 1,
+"explanation": "The poem focuses on youth and time, not marriage."
+},
+{
+"question": "How is youth described by Kalidasa?",
+"options": [
+"Boring",
+"Dull",
+"Thrilling",
+"Lovely"
+],
+"correct_option_index": 3,
+"explanation": "Kalidasa celebrates youth as beautiful and delightful."
+},
+{
+"question": "Who is the author of Rubaiyat?",
+"options": [
+"Dante",
+"Kalidasa",
+"Omar Khayyam",
+"Homer"
+],
+"correct_option_index": 2,
+"explanation": "Rubaiyat is a collection of quatrains by Omar Khayyam."
+},
+{
+"question": "Translator of Omar Khayyam’s poetry was",
+"options": [
+"Omar Khayyam himself",
+"Edward Fitzgerald",
+"Milton",
+"Homer"
+],
+"correct_option_index": 1,
+"explanation": "Edward Fitzgerald translated Rubaiyat into English."
+},
+{
+"question": "Which play by Shakespeare deals with the theme of mercy and justice?",
+"options": [
+"Romeo and Juliet",
+"The Merchant of Venice",
+"The Tempest",
+"Julius Caesar"
+],
+"correct_option_index": 1,
+"explanation": "The Merchant of Venice explores justice, mercy, and law."
+},
+{
+"question": "Who rescues Antonio from the conditions of Shylock’s bond?",
+"options": [
+"Bassanio",
+"Portia",
+"Nerissa",
+"Duke"
+],
+"correct_option_index": 1,
+"explanation": "Portia cleverly interprets the law and saves Antonio."
+},
+{
+"question": "What religion is Shylock?",
+"options": [
+"Jewish",
+"Catholic",
+"Muslim",
+"Anglican"
+],
+"correct_option_index": 0,
+"explanation": "Shylock is portrayed as a Jewish moneylender."
+},
+{
+"question": "How much money does Antonio borrow from Shylock?",
+"options": [
+"5000 ducats",
+"5000 pounds",
+"3000 pounds",
+"3000 ducats"
+],
+"correct_option_index": 3,
+"explanation": "Antonio borrows 3000 ducats on Bassanio’s behalf."
+}
+]

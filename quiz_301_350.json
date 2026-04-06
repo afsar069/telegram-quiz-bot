@@ -1,0 +1,431 @@
+[
+{
+"question": "Which king began a war to enforce his claims to the throne of France in 1336?",
+"options": [
+"Henry II",
+"Henry III",
+"Henry V",
+"Edward III"
+],
+"correct_option_index": 3,
+"explanation": "Edward III initiated the Hundred Years' War in 1337."
+},
+{
+"question": "Who would be called the English Homer and father of English poetry?",
+"options": [
+"Bede",
+"Sir Thomas Malory",
+"Geoffrey Chaucer",
+"John Gower"
+],
+"correct_option_index": 2,
+"explanation": "Geoffrey Chaucer is known as the father of English poetry."
+},
+{
+"question": "What was vellum?",
+"options": [
+"Parchment made of animal skin",
+"Service owed to a lord",
+"Unrhymed iambic pentameter",
+"An oath of loyalty"
+],
+"correct_option_index": 0,
+"explanation": "Vellum is parchment made from treated animal skin."
+},
+{
+"question": "Only a small proportion of medieval books survive because many were destroyed in",
+"options": [
+"Anglo-Saxon conquest",
+"Norman conquest",
+"Peasant uprising",
+"Dissolution of the Monasteries"
+],
+"correct_option_index": 3,
+"explanation": "Henry VIII dissolved monasteries in the 1530s, destroying many manuscripts."
+},
+{
+"question": "What is the first extended written specimen of Old English?",
+"options": [
+"Boethius' work",
+"Bible translation",
+"Morte d'Arthur",
+"Bede's Ecclesiastical History"
+],
+"correct_option_index": 3,
+"explanation": "Bede's Ecclesiastical History is one of the earliest major works in Old English tradition."
+},
+{
+"question": "Who was the first English Christian king?",
+"options": [
+"Alfred",
+"Richard III",
+"Henry II",
+"Ethelbert"
+],
+"correct_option_index": 3,
+"explanation": "King Ethelbert of Kent converted to Christianity in the 6th century."
+},
+{
+"question": "In Anglo-Saxon heroic poetry, what is the fate of those who fail to observe blood vengeance?",
+"options": [
+"Banishment",
+"Everlasting shame",
+"Conversion",
+"Reward"
+],
+"correct_option_index": 1,
+"explanation": "Honor culture demanded vengeance; failure meant shame."
+},
+{
+"question": "Christian writers like the Beowulf poet looked back on their pagan ancestors with",
+"options": [
+"Nostalgia",
+"Loathing",
+"Admiration and elegiac sympathy",
+"Reluctance"
+],
+"correct_option_index": 2,
+"explanation": "They respected their heroic past while viewing it through Christian values."
+},
+{
+"question": "The use of 'whale-road' for sea is an example of",
+"options": [
+"Symbolism",
+"Simile",
+"Metonymy",
+"Kenning"
+],
+"correct_option_index": 3,
+"explanation": "Kennings are compound metaphors common in Old English poetry."
+},
+{
+"question": "Which statement is not an accurate description of Old English poetry?",
+"options": [
+"Romantic love is central",
+"Formal language",
+"Irony present",
+"Mixed Christian and pagan ideals"
+],
+"correct_option_index": 0,
+"explanation": "Romantic love was not a central theme in Old English poetry."
+},
+{
+"question": "Litotes in Old English poetry refers to",
+"options": [
+"Christian ornamentation",
+"Parallel structure",
+"Ironic understatement",
+"Compound metaphor"
+],
+"correct_option_index": 2,
+"explanation": "Litotes is a figure of speech using understatement."
+},
+{
+"question": "How did Henry II acquire vast provinces in southern France?",
+"options": [
+"Battle of Hastings",
+"Church mission",
+"Royal decree",
+"Marriage to Eleanor of Aquitaine"
+],
+"correct_option_index": 3,
+"explanation": "Henry II gained lands through marriage to Eleanor of Aquitaine."
+},
+{
+"question": "Which language did not coexist in Anglo-Norman England?",
+"options": [
+"Latin",
+"Dutch",
+"French",
+"English"
+],
+"correct_option_index": 1,
+"explanation": "Latin, French, and English coexisted; Dutch did not."
+},
+{
+"question": "Which twelfth-century writers were indebted to Breton storytellers?",
+"options": [
+"Geoffrey Chaucer",
+"Marie de France",
+"Chrétien de Troyes",
+"Marie de France and Chrétien de Troyes"
+],
+"correct_option_index": 3,
+"explanation": "Both writers drew heavily on Breton legends."
+},
+{
+"question": "The word 'roman', from which 'romance' developed, initially referred to",
+"options": [
+"Latin work",
+"Love story",
+"Roman official",
+"Work written in French vernacular"
+],
+"correct_option_index": 3,
+"explanation": "Roman originally meant vernacular French narrative."
+},
+{
+"question": "Popular English adaptations of romances appealed primarily to",
+"options": [
+"Royal family",
+"Lower nobility",
+"Laborers",
+"Clergy"
+],
+"correct_option_index": 1,
+"explanation": "Romances were especially popular among the lesser nobility."
+},
+{
+"question": "What is the climax of Geoffrey of Monmouth's History of the Kings of Britain?",
+"options": [
+"Reign of King Arthur",
+"Magna Carta",
+"French defeat",
+"Royal marriage"
+],
+"correct_option_index": 0,
+"explanation": "Arthur's reign forms the climax of the narrative."
+},
+{
+"question": "Ancrene Riwle is a manual for",
+"options": [
+"Courtiers",
+"Translators",
+"Women religious recluses",
+"Knights"
+],
+"correct_option_index": 2,
+"explanation": "It was written to guide female religious recluses."
+},
+{
+"question": "The styles of The Owl and the Nightingale and Ancrene Riwle suggest that",
+"options": [
+"Only Latin readers benefited",
+"Only nobles read them",
+"French dominated literature",
+"English was readers' primary language"
+],
+"correct_option_index": 3,
+"explanation": "These works show English was widely used by readers."
+},
+{
+"question": "In addition to Chaucer and Langland, the flowering of Middle English literature is evident in the works of",
+"options": [
+"Geoffrey of Monmouth",
+"The Gawain poet",
+"Beowulf poet",
+"Marie de France"
+],
+"correct_option_index": 1,
+"explanation": "The anonymous Gawain poet represents Middle English literary achievement."
+},
+{
+"question": "Why did the rebels of 1381 target the church?",
+"options": [
+"Pagan beliefs",
+"Fear of writing",
+"Religious reform",
+"Church was oppressive landowner"
+],
+"correct_option_index": 3,
+"explanation": "The church owned large lands and imposed heavy burdens."
+},
+{
+"question": "Which medieval text claimed to reveal the secrets of the afterlife?",
+"options": [
+"Divine Comedy",
+"Decameron",
+"Dream of the Rood",
+"Confessio Amantis"
+],
+"correct_option_index": 0,
+"explanation": "Dante's Divine Comedy describes the afterlife journey."
+},
+{
+"question": "Who wrote Piers Plowman?",
+"options": [
+"Malory",
+"Chaucer",
+"Monmouth",
+"William Langland"
+],
+"correct_option_index": 3,
+"explanation": "William Langland authored the allegorical poem."
+},
+{
+"question": "What event followed the premature death of Henry V?",
+"options": [
+"Battle of Agincourt",
+"Norman conquest",
+"Black Death",
+"War of the Roses"
+],
+"correct_option_index": 3,
+"explanation": "Political instability led to the War of the Roses."
+},
+{
+"question": "Which literary form personified vices and virtues in the fifteenth century?",
+"options": [
+"Short story",
+"Epic",
+"Morality play",
+"Romance"
+],
+"correct_option_index": 2,
+"explanation": "Morality plays dramatized moral lessons through allegorical characters."
+},
+{
+"question": "Which statement about Julian of Norwich is true?",
+"options": [
+"Restored paganism",
+"Virgin martyr",
+"First known woman writer in English",
+"Travelled widely"
+],
+"correct_option_index": 2,
+"explanation": "Julian of Norwich is among the earliest female writers in English."
+},
+{
+"question": "Which author is associated with chivalry in Sir Lancelot stories?",
+"options": [
+"Julian of Norwich",
+"Margery Kempe",
+"William Langland",
+"Sir Thomas Malory"
+],
+"correct_option_index": 3,
+"explanation": "Malory wrote Le Morte d'Arthur featuring Sir Lancelot."
+},
+{
+"question": "Chaucer served as controller of customs during which years?",
+"options": [
+"1374 to 1385",
+"1350 to 1360",
+"1360 to 1400",
+"1400 to 1410"
+],
+"correct_option_index": 0,
+"explanation": "Chaucer held the post from 1374 to 1385."
+},
+{
+"question": "Chaucer became a Member of Parliament in which year?",
+"options": [
+"1386",
+"1300",
+"1343",
+"1401"
+],
+"correct_option_index": 0,
+"explanation": "He represented Kent in Parliament in 1386."
+},
+{
+"question": "Chaucer is buried in which famous area of Westminster Abbey?",
+"options": [
+"Royal Corner",
+"King's Corner",
+"Legend Corner",
+"Poets' Corner"
+],
+"correct_option_index": 3,
+"explanation": "His burial place became known as Poets' Corner."
+},
+{
+"question": "What was Chaucer's profession besides being a poet?",
+"options": [
+"Merchant",
+"Civil servant",
+"Farmer",
+"Soldier"
+],
+"correct_option_index": 1,
+"explanation": "Chaucer served in royal administrative positions."
+},
+{
+"question": "Marlowe translated the epic poem Pharsalia written by which Roman poet?",
+"options": [
+"Ovid",
+"Lucan",
+"Virgil",
+"Horace"
+],
+"correct_option_index": 1,
+"explanation": "Lucan authored the Latin epic Pharsalia."
+},
+{
+"question": "Which poet wrote a famous reply to 'The Passionate Shepherd to His Love'?",
+"options": [
+"William Shakespeare",
+"Thomas Kyd",
+"John Dryden",
+"John Donne"
+],
+"correct_option_index": 0,
+"explanation": "Shakespeare wrote a poetic response to Marlowe's pastoral poem."
+},
+{
+"question": "What was the name of the Jew in Marlowe's The Jew of Malta?",
+"options": [
+"Lazarus",
+"Solomon",
+"Barabas",
+"Shylock"
+],
+"correct_option_index": 2,
+"explanation": "Barabas is the central character in the play."
+},
+{
+"question": "How many years of power was Dr. Faustus promised by the Devil?",
+"options": [
+"16",
+"20",
+"24",
+"28"
+],
+"correct_option_index": 2,
+"explanation": "Faustus bargains for 24 years of magical power."
+},
+{
+"question": "Which king is the subject of Marlowe's historical play?",
+"options": [
+"Henry V",
+"Richard III",
+"Edward II",
+"King John"
+],
+"correct_option_index": 2,
+"explanation": "Marlowe wrote the tragedy Edward II."
+},
+{
+"question": "Marlowe wrote a famous poem about which lovers?",
+"options": [
+"Antony and Cleopatra",
+"Hero and Leander",
+"Troilus and Cressida",
+"Apollo and Hyacinth"
+],
+"correct_option_index": 1,
+"explanation": "Hero and Leander is Marlowe's well-known narrative poem."
+},
+{
+"question": "Tamburlaine the Great was based loosely on the life of which ruler?",
+"options": [
+"Zhu Yuanzhang",
+"Genghis Khan",
+"Timur",
+"Kublai Khan"
+],
+"correct_option_index": 2,
+"explanation": "Tamburlaine represents the conqueror Timur."
+},
+{
+"question": "Which Marlowe play portrays the events of the Saint Bartholomew's Day Massacre?",
+"options": [
+"Massacre at Berlin",
+"Massacre at Rome",
+"Massacre at Copenhagen",
+"Massacre at Paris"
+],
+"correct_option_index": 3,
+"explanation": "The Massacre at Paris dramatizes the 1572 event."
+}
+]

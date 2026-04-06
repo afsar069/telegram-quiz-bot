@@ -1,0 +1,211 @@
+[
+{
+"question": "Who is the protagonist of Les Miserables?",
+"options": [
+"Javert",
+"Jean Vajean",
+"Jean Valjean",
+"Colette"
+],
+"correct_option_index": 2,
+"explanation": "Jean Valjean is the central character of Victor Hugo’s novel Les Miserables."
+},
+{
+"question": "Which author explores the dependence of women on marriage for social standing?",
+"options": [
+"Victor Hugo",
+"Cervantes",
+"Jane Austen",
+"John Milton"
+],
+"correct_option_index": 2,
+"explanation": "Jane Austen examines marriage and social status in her novels."
+},
+{
+"question": "In Pride and Prejudice which character represents the idea of 'pride'?",
+"options": [
+"Elizabeth",
+"Bingley",
+"Darcy",
+"Mr. Bennet"
+],
+"correct_option_index": 2,
+"explanation": "Mr. Darcy initially embodies pride in the novel."
+},
+{
+"question": "Who says that 'happiness in marriage is entirely a matter of chance'?",
+"options": [
+"Mrs. Bennet",
+"Mr. Bingley",
+"Charlotte",
+"Elizabeth"
+],
+"correct_option_index": 2,
+"explanation": "Charlotte Lucas expresses this pragmatic view on marriage."
+},
+{
+"question": "Which novel is translated into more languages than any other book except the Bible?",
+"options": [
+"Don Quixote",
+"Les Miserables",
+"Pride and Prejudice",
+"The Iliad"
+],
+"correct_option_index": 0,
+"explanation": "Don Quixote by Cervantes is one of the most translated books in the world."
+},
+{
+"question": "What is Don Quixote’s real name?",
+"options": [
+"Alphonso",
+"Eduardo",
+"Alonso",
+"Miguel"
+],
+"correct_option_index": 2,
+"explanation": "Don Quixote’s real name is Alonso Quixano."
+},
+{
+"question": "What is the name of Don Quixote’s horse?",
+"options": [
+"Dapple",
+"El Toredo",
+"Rocinante",
+"El Ceballo"
+],
+"correct_option_index": 2,
+"explanation": "Rocinante is the loyal horse of Don Quixote."
+},
+{
+"question": "To Don Quixote, the windmills appear as",
+"options": [
+"Giants",
+"Monks",
+"Knights",
+"Friars"
+],
+"correct_option_index": 0,
+"explanation": "He famously mistakes windmills for giants."
+},
+{
+"question": "Why did Don Quixote want to become a knight errant?",
+"options": [
+"Make things right for everyone",
+"Make things worse",
+"Make his friends happy",
+"Without any purpose"
+],
+"correct_option_index": 0,
+"explanation": "He wished to correct wrongs and defend the helpless."
+},
+{
+"question": "The author of Don Quixote is",
+"options": [
+"Miguel de Cervantes",
+"Don Quixote",
+"Sancho Panza",
+"Victor Hugo"
+],
+"correct_option_index": 0,
+"explanation": "Miguel de Cervantes wrote Don Quixote."
+},
+{
+"question": "Sancho Panza’s occupation is",
+"options": [
+"Accounts General",
+"Knight",
+"King",
+"Farmer"
+],
+"correct_option_index": 3,
+"explanation": "Sancho Panza is a simple farmer who becomes Quixote’s squire."
+},
+{
+"question": "Victor Hugo was a",
+"options": [
+"Spanish writer",
+"French writer",
+"Italian",
+"Indian"
+],
+"correct_option_index": 1,
+"explanation": "Victor Hugo was a famous French novelist and poet."
+},
+{
+"question": "The literal meaning of Les Miserables is",
+"options": [
+"The miserable ones",
+"Less miserable",
+"Without miseries",
+"Full of miseries"
+],
+"correct_option_index": 0,
+"explanation": "The French title refers to the suffering people in society."
+},
+{
+"question": "How many years did it take to complete the novel Les Miserables?",
+"options": [
+"15 years",
+"16 years",
+"17 years",
+"18 years"
+],
+"correct_option_index": 2,
+"explanation": "Victor Hugo worked on the novel for approximately 17 years."
+},
+{
+"question": "What was the colour of the passport of former convicts who had served forced labour?",
+"options": [
+"White",
+"Yellow",
+"Black",
+"Red"
+],
+"correct_option_index": 1,
+"explanation": "Former convicts carried a yellow passport marking their criminal status."
+},
+{
+"question": "Mr. Bennet’s property is entailed. What does it mean?",
+"options": [
+"Girls have the right to inherit the property",
+"Only the elder one has the right",
+"Only the younger one has the right",
+"None of the girls can inherit it"
+],
+"correct_option_index": 3,
+"explanation": "The estate can pass only to a male heir."
+},
+{
+"question": "Which is Jane Austen’s first novel?",
+"options": [
+"Northanger Abbey",
+"Sense and Sensibility",
+"Persuasion",
+"Pride and Prejudice"
+],
+"correct_option_index": 1,
+"explanation": "Sense and Sensibility was Austen’s first published novel."
+},
+{
+"question": "Which literary character did Cervantes create?",
+"options": [
+"Orlando Furioso",
+"Lazarillo Tormes",
+"Don Quixote",
+"Ricardo Reis"
+],
+"correct_option_index": 2,
+"explanation": "Don Quixote is Cervantes’ most famous fictional character."
+},
+{
+"question": "Cervantes published his novel Don Quixote in how many parts?",
+"options": [
+"2",
+"12",
+"7",
+"10"
+],
+"correct_option_index": 0,
+"explanation": "Don Quixote was published in two parts, in 1605 and 1615."
+}
+]

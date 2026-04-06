@@ -1,0 +1,222 @@
+[
+{
+"question": "Which of the following is not a work of John Keats?",
+"options": [
+"Endymion",
+"To some ladies",
+"To hope",
+"None of the above"
+],
+"correct_option_index": 2,
+"explanation": "'To hope' is not a recognized work of John Keats."
+},
+{
+"question": "Who wrote the poems 'On Death' and 'Women, Wine, and Snuff'?",
+"options": [
+"John Milton",
+"John Keats",
+"P. B. Shelley",
+"William Wordsworth"
+],
+"correct_option_index": 0,
+"explanation": "These poems are attributed to John Milton."
+},
+{
+"question": "'Of Man's first disobedience, and the fruit Of that forbidden tree...' is an extract from",
+"options": [
+"Paradise Lost",
+"Paradise Regained",
+"Samson Agonistes",
+"Divorce Tracts"
+],
+"correct_option_index": 0,
+"explanation": "These are the opening lines of Milton's epic Paradise Lost."
+},
+{
+"question": "William Shakespeare was born in the year",
+"options": [
+"1564",
+"1544",
+"1578",
+"1582"
+],
+"correct_option_index": 0,
+"explanation": "Shakespeare was born in 1564."
+},
+{
+"question": "Who wrote 'The Winter's Tale'?",
+"options": [
+"George Bernard Shaw",
+"John Dryden",
+"Christopher Marlowe",
+"William Shakespeare"
+],
+"correct_option_index": 3,
+"explanation": "The Winter's Tale is a late romance by Shakespeare."
+},
+{
+"question": "What is the difference between a simile and a metaphor?",
+"options": [
+"No difference",
+"A simile is more descriptive",
+"A simile uses as or like to make a comparison",
+"A simile must use animals"
+],
+"correct_option_index": 2,
+"explanation": "Similes explicitly use comparison words like or as."
+},
+{
+"question": "What is the word for a play on words?",
+"options": [
+"Pun",
+"Simile",
+"Haiku",
+"Metaphor"
+],
+"correct_option_index": 0,
+"explanation": "A pun is a form of wordplay."
+},
+{
+"question": "Which represents an example of alliteration?",
+"options": [
+"Language Arts",
+"Peter Piper Picked Peppers",
+"I like music",
+"Beautiful scenery"
+],
+"correct_option_index": 1,
+"explanation": "Alliteration repeats initial consonant sounds."
+},
+{
+"question": "What is the imitation of natural sounds in word form?",
+"options": [
+"Personification",
+"Hyperbole",
+"Alliteration",
+"Onomatopoeia"
+],
+"correct_option_index": 3,
+"explanation": "Onomatopoeia imitates sounds."
+},
+{
+"question": "The theme is",
+"options": [
+"A plot",
+"A character",
+"An address",
+"The point a writer is trying to make"
+],
+"correct_option_index": 3,
+"explanation": "Theme is the central idea of a text."
+},
+{
+"question": "Which hero made his earliest appearance in Celtic literature before becoming widely known?",
+"options": [
+"Beowulf",
+"Arthur",
+"Caedmon",
+"Augustine"
+],
+"correct_option_index": 1,
+"explanation": "King Arthur first appeared in Celtic legends."
+},
+{
+"question": "Toward the close of which century did English replace French in Parliament and law courts?",
+"options": [
+"Tenth",
+"Eleventh",
+"Twelfth",
+"Fourteenth"
+],
+"correct_option_index": 3,
+"explanation": "English replaced French in the fourteenth century."
+},
+{
+"question": "Which king began a war to enforce his claims to the throne of France in 1336?",
+"options": [
+"Henry II",
+"Henry III",
+"Henry V",
+"Edward III"
+],
+"correct_option_index": 3,
+"explanation": "Edward III initiated the Hundred Years' War."
+},
+{
+"question": "Who is called the English Homer and father of English poetry?",
+"options": [
+"Bede",
+"Sir Thomas Malory",
+"Geoffrey Chaucer",
+"John Gower"
+],
+"correct_option_index": 2,
+"explanation": "Chaucer is known as the father of English poetry."
+},
+{
+"question": "What was vellum?",
+"options": [
+"Parchment made of animal skin",
+"Service owed to a lord",
+"Unrhymed verse",
+"An oath"
+],
+"correct_option_index": 0,
+"explanation": "Vellum is parchment made from animal skin."
+},
+{
+"question": "Large numbers of medieval books were destroyed in",
+"options": [
+"Anglo-Saxon conquest",
+"Norman conquest",
+"Peasant uprising",
+"Dissolution of monasteries"
+],
+"correct_option_index": 3,
+"explanation": "Many manuscripts were destroyed during the Dissolution of the Monasteries."
+},
+{
+"question": "What is the first extended written specimen of Old English?",
+"options": [
+"Boethius' work",
+"Bible translation",
+"Morte Darthur",
+"Ecclesiastical History"
+],
+"correct_option_index": 3,
+"explanation": "Bede's Ecclesiastical History is an early major text."
+},
+{
+"question": "Who was the first English Christian king?",
+"options": [
+"Alfred",
+"Richard III",
+"Henry II",
+"Ethelbert"
+],
+"correct_option_index": 3,
+"explanation": "King Ethelbert was the first English Christian king."
+},
+{
+"question": "In Anglo-Saxon heroic poetry, failure to observe blood vengeance leads to",
+"options": [
+"Banishment",
+"Everlasting shame",
+"Conversion",
+"Melancholia"
+],
+"correct_option_index": 1,
+"explanation": "Honor and vengeance were central values."
+},
+{
+"question": "The use of 'whale-road' for sea is an example of",
+"options": [
+"Symbolism",
+"Simile",
+"Metonymy",
+"Kenning"
+],
+"correct_option_index": 3,
+"explanation": "Kennings are compound metaphors in Old English poetry."
+}
+]

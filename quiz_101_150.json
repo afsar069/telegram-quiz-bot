@@ -1,0 +1,222 @@
+[
+{
+"question": "Who makes a notable speech on the concept of mercy in The Merchant of Venice?",
+"options": [
+"Antonio",
+"Bassanio",
+"Portia",
+"Gratiano"
+],
+"correct_option_index": 2,
+"explanation": "Portia delivers the famous speech on mercy in the courtroom scene."
+},
+{
+"question": "'A Daniel come to judgement!' Who exclaimed so?",
+"options": [
+"Antonio",
+"Bassanio",
+"Shylock",
+"Portia"
+],
+"correct_option_index": 2,
+"explanation": "Shylock praises Portia when he believes the judgment favors him."
+},
+{
+"question": "Who is the Merchant of Venice?",
+"options": [
+"Antonio",
+"Lorenzo",
+"Bassanio",
+"Gratiano"
+],
+"correct_option_index": 0,
+"explanation": "Antonio is the central merchant character in the play."
+},
+{
+"question": "Who needs money to win Portia?",
+"options": [
+"Lorenzo",
+"Antonio",
+"Bassanio",
+"Gratiano"
+],
+"correct_option_index": 2,
+"explanation": "Bassanio borrows money from Antonio to court Portia."
+},
+{
+"question": "Who marries Nerissa?",
+"options": [
+"Lorenzo",
+"Gratiano",
+"Antonio",
+"Bassanio"
+],
+"correct_option_index": 1,
+"explanation": "Gratiano becomes the husband of Nerissa."
+},
+{
+"question": "Who marries Shylock's daughter, Jessica?",
+"options": [
+"Bassanio",
+"Gratiano",
+"Lorenzo",
+"Antonio"
+],
+"correct_option_index": 2,
+"explanation": "Jessica elopes and marries Lorenzo."
+},
+{
+"question": "What is Shylock's profession?",
+"options": [
+"Lawyer",
+"Merchant",
+"Usurer",
+"Sailor"
+],
+"correct_option_index": 2,
+"explanation": "Shylock is a moneylender who charges interest."
+},
+{
+"question": "What religion is Shylock?",
+"options": [
+"Jewish",
+"Catholic",
+"Muslim",
+"Anglican"
+],
+"correct_option_index": 0,
+"explanation": "Shylock is portrayed as a Jewish moneylender."
+},
+{
+"question": "How much money does Antonio borrow from Shylock?",
+"options": [
+"5000 ducats",
+"5000 pounds",
+"3000 pounds",
+"3000 ducats"
+],
+"correct_option_index": 3,
+"explanation": "Antonio borrows 3000 ducats to help Bassanio."
+},
+{
+"question": "If Antonio cannot pay back the money in three months, he must give Shylock a pound of",
+"options": [
+"Apple",
+"Flesh",
+"Heart",
+"Meat"
+],
+"correct_option_index": 1,
+"explanation": "The bond demands a pound of Antonio’s flesh if unpaid."
+},
+{
+"question": "Portia dresses up as a man named at the trial.",
+"options": [
+"Bellario",
+"Gratiano",
+"Lorenzo",
+"Balthazar"
+],
+"correct_option_index": 3,
+"explanation": "Portia disguises herself as the lawyer Balthazar."
+},
+{
+"question": "What reason does Antonio give for being sad in the opening scene of the play?",
+"options": [
+"He stands to lose a fortune in his present business ventures.",
+"He owes a fantastic sum of money to Shylock.",
+"He gives no reason.",
+"The woman he loves does not return his feelings."
+],
+"correct_option_index": 0,
+"explanation": "Antonio fears financial losses from his trading ships."
+},
+{
+"question": "From what character flaw does Bassanio believe Gratiano suffers?",
+"options": [
+"Mean-spiritedness",
+"A lack of depth",
+"Stinginess",
+"Vanity"
+],
+"correct_option_index": 1,
+"explanation": "Bassanio feels Gratiano lacks seriousness."
+},
+{
+"question": "Which of the following is not a reason Shylock gives for hating Antonio?",
+"options": [
+"Antonio is in love with Shylock’s daughter, Jessica.",
+"Antonio has insulted Shylock in the past.",
+"Antonio lends money without interest.",
+"Antonio hates Jews."
+],
+"correct_option_index": 0,
+"explanation": "This is not mentioned as one of Shylock’s grievances."
+},
+{
+"question": "How does Shylock initially describe his demand for a pound of flesh?",
+"options": [
+"As an opportunity for revenge",
+"As his way of being charitable",
+"As a harmless prank",
+"As a way of procuring food"
+],
+"correct_option_index": 2,
+"explanation": "Shylock initially calls the bond a joke."
+},
+{
+"question": "Whom does Bassanio agree to bring with him to Belmont?",
+"options": [
+"Old Gobbo",
+"Gratiano",
+"Antonio",
+"Jessica"
+],
+"correct_option_index": 1,
+"explanation": "Gratiano accompanies Bassanio to Belmont."
+},
+{
+"question": "What course of action does Portia suggest when she learns that Shylock wishes to collect his pound of flesh?",
+"options": [
+"Disguise Antonio and help him escape",
+"Deal with the matter in court",
+"Jessica plead with her father",
+"Pay the bond many times over"
+],
+"correct_option_index": 3,
+"explanation": "Portia suggests repaying the bond multiple times."
+},
+{
+"question": "In court, how does Antonio react to Shylock’s insistence?",
+"options": [
+"He weeps openly",
+"He vows patience",
+"He curses Shylock",
+"He pleads to the court"
+],
+"correct_option_index": 1,
+"explanation": "Antonio accepts his fate calmly."
+},
+{
+"question": "Who enters the court disguised as a young doctor of Law named Balthasar?",
+"options": [
+"Portia",
+"Nerissa",
+"Jessica",
+"Lorenzo"
+],
+"correct_option_index": 0,
+"explanation": "Portia uses disguise to defend Antonio."
+},
+{
+"question": "What loophole allows Portia to stop Shylock from taking flesh?",
+"options": [
+"Jewish law restriction",
+"Flesh but not blood",
+"Bond unsigned",
+"Ships not lost"
+],
+"correct_option_index": 1,
+"explanation": "Shylock cannot shed blood according to the bond."
+}
+]

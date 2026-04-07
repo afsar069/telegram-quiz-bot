@@ -1,42 +1,68 @@
 import os
 import logging
-import sys
 from telegram import Update
-from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
+from telegram.ext import (
+    ApplicationBuilder,
+    CommandHandler,
+    MessageHandler,
+    ContextTypes,
+    filters,
+)
 
 logging.basicConfig(level=logging.INFO)
 
+# Commands
+
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    await update.message.reply_text("Bot is running successfully!")
+    await update.message.reply_text("Bot is running.")
+
+async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    await update.message.reply_text(
+        "Available commands:\n"
+        "/start\n"
+        "/help\n"
+        "/status\n"
+        "/ping"
+    )
+
+async def status(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    await update.message.reply_text("Bot status: Active")
+
+async def ping(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    await update.message.reply_text("Pong")
+
+# Catch-all message handler (important for debugging)
+
+async def echo(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    text = update.message.text
+    print("Received message:", text)
+    await update.message.reply_text("Message received")
 
 def main():
-    print("=== BOT STARTING ===")
 
-    try:
-        # Show environment keys
-        print("ENV KEYS:", list(os.environ.keys()))
+    print("Starting bot...")
 
-        token = os.environ.get("8748472237:AAHTRywNoC9l8M3-9FRcYBS52ETLjhG2fKo")
+    token = os.environ.get("BOT_TOKEN")
 
-        print("BOT_TOKEN exists:", bool(token))
+    if not token:
+        raise RuntimeError("BOT_TOKEN missing")
 
-        if not token:
-            print("ERROR: BOT_TOKEN missing")
-            sys.exit(1)
+    app = ApplicationBuilder().token(token.strip()).build()
 
-        print("Creating application...")
+    # Register handlers
 
-        app = ApplicationBuilder().token(token.strip()).build()
+    app.add_handler(CommandHandler("start", start))
+    app.add_handler(CommandHandler("help", help_command))
+    app.add_handler(CommandHandler("status", status))
+    app.add_handler(CommandHandler("ping", ping))
 
-        app.add_handler(CommandHandler("start", start))
+    # This handles normal text messages
 
-        print("Starting polling...")
+    app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, echo))
 
-        app.run_polling()
+    print("Bot started successfully")
 
-    except Exception as e:
-        print("CRASH ERROR:", str(e))
-        sys.exit(1)
+    app.run_polling()
 
 if __name__ == "__main__":
     main()

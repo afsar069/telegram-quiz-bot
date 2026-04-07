@@ -1,36 +1,42 @@
 import os
 import logging
+import sys
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-# Logging setup
-logging.basicConfig(
-    format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
-    level=logging.INFO
-)
+logging.basicConfig(level=logging.INFO)
 
-# Read token from environment
-TOKEN = os.getenv("8748472237:AAHTRywNoC9l8M3-9FRcYBS52ETLjhG2fKo")
-
-# Safety check for token
-if not TOKEN:
-    raise ValueError("BOT_TOKEN is missing. Check Render Environment Variables.")
-
-# Command handler
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    await update.message.reply_text("Bot is running successfully on Render!")
+    await update.message.reply_text("Bot is running successfully!")
 
-# Main function
 def main():
-    print("Starting bot...")
+    print("=== BOT STARTING ===")
 
-    app = ApplicationBuilder().token(TOKEN).build()
+    try:
+        # Show environment keys
+        print("ENV KEYS:", list(os.environ.keys()))
 
-    app.add_handler(CommandHandler("start", start))
+        token = os.environ.get("8748472237:AAHTRywNoC9l8M3-9FRcYBS52ETLjhG2fKo")
 
-    print("Bot started successfully")
+        print("BOT_TOKEN exists:", bool(token))
 
-    app.run_polling()
+        if not token:
+            print("ERROR: BOT_TOKEN missing")
+            sys.exit(1)
+
+        print("Creating application...")
+
+        app = ApplicationBuilder().token(token.strip()).build()
+
+        app.add_handler(CommandHandler("start", start))
+
+        print("Starting polling...")
+
+        app.run_polling()
+
+    except Exception as e:
+        print("CRASH ERROR:", str(e))
+        sys.exit(1)
 
 if __name__ == "__main__":
     main()
